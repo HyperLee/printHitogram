@@ -1,0 +1,2 @@
+# printHitogram
+ use c
